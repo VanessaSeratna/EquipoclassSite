@@ -1,0 +1,23 @@
+body {
+    text-align:center;
+    font-family:Open Sans, sans-serif;
+    background: #8A71C9;
+    color: #ffffff;
+    margin: 0px 0px 30px 0px;
+}
+.nav_bar{
+    position:inherit;
+}
+.navbar_logo{
+    display: flex;
+    align-items: center;
+    max-width:75px;
+    max-height: 32px;
+}
+
+form button{
+        background-color: #41f341;
+        border: 1px transparent;
+        padding: 2px 20px 2px 20px;
+        border-radius: 3px;
+      }   
